@@ -1,6 +1,6 @@
-# hello-world
-first repo
+# Stream Requiem - keshi
+My favorite track is Soft Spot.
 
-this is my first git experience.
-this is awesome.
-wow!
+Then, my second favorite track is Texas.
+
+I'm excited for the release of Kiss Me Right (KMR) on Friday.
